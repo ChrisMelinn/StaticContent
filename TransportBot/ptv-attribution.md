@@ -10,5 +10,4 @@ The Melbourne Transport Bot relies on the PTV Timetable API Data, but also aggre
 The original and derived data is provided “as is” and Melbourne Transport Bot does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of its service.
 
 ## Thanks to PTV
-The Melbourne Transport Bot Messenger Application is made possible thanks to the publicly available PTV Timetable API. The creator of this application is extremely grateful to PTV for sharing this information with the public.  For more information see 
-https://www.ptv.vic.gov.au/about-ptv/data-and-reports/datasets/ptv-timetable-api/
+The Melbourne Transport Bot Messenger Application is made possible thanks to the publicly available PTV Timetable API. The creator of this application is extremely grateful to PTV for sharing this information with the public.  For more information, please visit [PTV Timetable API](https://www.ptv.vic.gov.au/about-ptv/data-and-reports/datasets/ptv-timetable-api/)
